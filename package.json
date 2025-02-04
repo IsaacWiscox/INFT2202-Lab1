@@ -1,0 +1,19 @@
+{
+  "name": "inft2202-lab1",
+  "version": "1.0.0",
+  "description": "This project is a basic web application with dynamic product management functionality. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IsaacWiscox/INFT2202-Lab1.git"
+  },
+  "author": "Isaac Wisniewski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IsaacWiscox/INFT2202-Lab1/issues"
+  },
+  "homepage": "https://github.com/IsaacWiscox/INFT2202-Lab1#readme"
+}
